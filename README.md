@@ -1,3 +1,3 @@
 # NEWPROJECT
-This is my first repository
-Author= haalim740
+This is my first repository.
+Author = haalim
